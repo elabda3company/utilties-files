@@ -27,16 +27,14 @@ yarn-error.log
 /.vscode
 .htaccess
 *.log
-app/Http/Services/Others/api_olar_world_d9f7d_e67c3_1751327999_0c6385332905230807e9931fdb20b6a5.crt
-app/Http/Services/Others/d9f7d_e67c3_7e994571bb561dfbf0b0618c8c23c918.key
+app/Http/Services/Others/*.crt
+app/Http/Services/Others/*.key
 # Log files
 chatnode.log
 larvelsuper.log
 subscribenode.log
 public/error_log
 error_log
-# Migration file
-database/migrations/2024_05_14_135637_create_jobs_table.php
 # PHP configuration file
 php.ini
 # Public info file
