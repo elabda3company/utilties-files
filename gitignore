@@ -1,0 +1,52 @@
+/.phpunit.cache
+/node_modules
+/public/build
+/public/uploads
+/public/hot
+/public/storage
+/storage/*.key
+/storage/app/*
+/storage/logs/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/framework/cache/*
+/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+composer.lock
+package-lock.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
+.htaccess
+*.log
+app/Http/Services/Others/api_olar_world_d9f7d_e67c3_1751327999_0c6385332905230807e9931fdb20b6a5.crt
+app/Http/Services/Others/d9f7d_e67c3_7e994571bb561dfbf0b0618c8c23c918.key
+# Log files
+chatnode.log
+larvelsuper.log
+subscribenode.log
+public/error_log
+error_log
+# Migration file
+database/migrations/2024_05_14_135637_create_jobs_table.php
+# PHP configuration file
+php.ini
+# Public info file
+public/info.php
+.gitignore
+Dockerfile
+docker-compose.yml
+.DS_Store
+data
+composer.json
+.editorconfig
+.gitattributes
+Dockerfilenode
